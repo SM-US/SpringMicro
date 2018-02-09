@@ -1,1 +1,35 @@
 This repo will hold the relevant codebase for spring micro services
+
+
+# Code restructure
+# Entire application should be up and running(Zuul, Product, UI)
+# React JS tutorials
+# Configuration properties file skeleton with spring profile
+<===>Above should be done by 10th Feb
+
+# Hystrix integration
+12 Feb 2018(Sumit)
+# Sleuth & Zipkin Integration
+12 Feb 2018(Ritam)
+# Spring security & Oauth2
+14 Feb 2018(Ritam & Sumit)
+# Order Management (20th Feb 2018) 
+(18 Feb 2018 to track the progress)
+
+# Inventory (16 Feb 2018 Sumit) 
+# Pricing MS (16 Feb 2018 Ritam)
+
+
+# Code build Automation (By 20th Feb)
+
+
+
+
+# Pivotal cloudfoundry( 23 Feb 2018 ) 
+# AWS (28th Feb 2018)
+
+
+Nice to have
+# Cucumber BDD test (Not on high priority)
+# JMeter integeration
+
